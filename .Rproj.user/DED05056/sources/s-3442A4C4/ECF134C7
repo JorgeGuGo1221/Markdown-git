@@ -3,7 +3,7 @@
     "path": "~/Modulo6/Markdown-git/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2238207955",
     "contents": "",
     "dirty": false,
     "created": 1657580951591.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,0",
-        "scrollLine": "6",
+        "cursorPosition": "11,101",
+        "scrollLine": "5",
         "last_setup_crc32": "3442A4C4f69e42f0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657584808,
+    "lastKnownWriteTime": 1657585356,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657584808837,
+    "last_content_update": 1657585356162,
     "read_only": false,
     "read_only_alternatives": []
 }

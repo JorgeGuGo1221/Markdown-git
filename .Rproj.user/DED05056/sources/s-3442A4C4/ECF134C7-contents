@@ -9,7 +9,7 @@ library(plotly)
 ```
 
 ```{r}
-df = read.csv('https://raw.githubusercontent.com/JorgeGuGo1221/Markdown-git/master/coffe-flavors.csv')
+df = read.csv('https://raw.githubusercontent.com/JorgeGuGo1221/Markdown-git/master/coffee-flavors.csv')
 fig <- plot_ly()
 fig <- fig %>% add_trace(
   type='sunburst',
